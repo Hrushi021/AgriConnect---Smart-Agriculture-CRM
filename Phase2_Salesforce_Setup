@@ -1,6 +1,0 @@
-1.Signuped and logined to Salesforce Developer org Succesfully
-2.Explored org SETUP and proceeded with configuration
-3.Created a new ligtning App named 'AgriConnect'
-4.Used many standard objects such as accounts, contacts also create some custom objects like Farmer, Crop, Deal, Buyer, Visit
-5.Created feilds for every custom object using feilds & Relationships such as name, phone, prize etc
-6.finally created Tabs for each custom object created
