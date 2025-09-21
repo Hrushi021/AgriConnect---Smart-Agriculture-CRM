@@ -7,4 +7,6 @@ LINK:   https://github.com/Hrushi021/AgriConnect---Smart-Agriculture-CRM/tree/42
  
 Phase 1 : Completed and Documention Added
 
-Phase2 : Completed and Document Added
+Phase 2 : Completed and Document Added
+
+Phase 3 : Completed and Document Added
