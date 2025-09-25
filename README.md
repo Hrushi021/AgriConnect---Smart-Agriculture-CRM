@@ -1,7 +1,7 @@
 All Phases are Documented & Available in   'CAPSTONE PROJECT'  Folder
 
 
-https://github.com/Hrushi021/AgriConnect---Smart-Agriculture-CRM/tree/c81c4ef6e357fc187d48323dd0eea237bf636b73/Capstone%20Project
+https://github.com/Hrushi021/AgriConnect---Smart-Agriculture-CRM/tree/a9a97050873d3415b2d2ea64b9bab32b1df67669/Capstone%20Project
 
 
  
@@ -16,3 +16,11 @@ Phase 4 : Completed and Document Added
 Phase 5 : Completed and Document Added
 
 Phase 6 : Completed and Document Added
+
+Phase 7 : Completed and Document Added
+
+Phase 8 : Completed and Document Added
+
+
+
+
